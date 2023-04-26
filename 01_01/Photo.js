@@ -1,4 +1,4 @@
-/**
+/** this is my file
  * Fragment from React Photo Gallery component.
  * By Sandra Gonzales @neptunian
  * @link https://github.com/neptunian/react-photo-gallery
